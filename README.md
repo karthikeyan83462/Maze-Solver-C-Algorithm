@@ -1,4 +1,4 @@
-Rat in a Maze:
+# Rat in a Maze:
 
 ![image](https://github.com/karthikeyan83462/Maze-Solver-C-Algorithm/assets/120308685/b16b2723-4bba-48b1-be80-ea391b4dd322)
 
