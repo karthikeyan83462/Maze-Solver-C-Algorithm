@@ -16,3 +16,4 @@ This repository contains C code for generating and solving mazes using a backtra
    git clone https://github.com/karthikeyan83462/Maze-Solver-C-Algorithm
 
    
+![Symbolic Maze](images/symbolic_maze.png)
