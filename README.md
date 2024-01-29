@@ -1,6 +1,6 @@
---
+__
 ![image](https://github.com/karthikeyan83462/Maze-Solver-C-Algorithm/assets/120308685/b16b2723-4bba-48b1-be80-ea391b4dd322)
---
+__
 # Maze Solver in C
 
 This repository contains C code for generating and solving mazes using a backtracking algorithm. It provides functionalities to visualize the maze generation process, display binary representation, and animate the maze-solving process.
